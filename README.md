@@ -28,7 +28,7 @@
 
 ## 🐍 每天喂它一点
 
-<img src="https://raw.githubusercontent.com/Aston-x/Aston-x/output/github-contribution-grid-snake.svg" alt="贡献蛇" />
+<img src="https://raw.githubusercontent.com/Aston-x/Aston-X/output/github-contribution-grid-snake.svg" alt="贡献蛇" />
 
 </div>
 
