@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## 🖥️ 终端里的我
+## 欸,云朵?
 
 <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=Aston-x&theme=ubuntu&color=1" alt="neofetch 卡片" width="480" />
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-## 🐍 每天喂它一点
+## 哒哒哒哒哒
 
 <img src="https://raw.githubusercontent.com/Aston-x/Aston-X/output/github-contribution-grid-snake.svg" alt="贡献蛇" />
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-## 🎲 今日运势
+## 好想玩原神
 
 <img src="https://github-readme-zodiac.vercel.app/api/card?username=Aston-x&width=360" alt="星座" />
 &nbsp;&nbsp;
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-## 🏆 收集到的成就
+## 云原神!
 
 <img src="https://github-profile-trophy-eight.vercel.app/?username=Aston-x&theme=radical&column=8" alt="奖杯墙" />
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-## 🎴 口袋里的工具
+## 当当当当当
 
 <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,git,github,gitHubActions,docker,linux,sqlite,ollama,fastapi,nginx&perline=6" alt="技能图标" />
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-## 💬 开发者名言
+## 看精彩纷纷
 
 <img src="https://quotes-github-readme.vercel.app/api" alt="名言" />
 
