@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,8&height=200&section=header&text=%E5%9C%A8%E8%88%8F%E4%B9%A6%E5%BA%97%E9%87%8C%E7%9A%84%E9%BB%91%E7%8C%AB&fontSize=46&fontAlignY=42&fontColor=ffffff&animation=fadeIn" alt="住在旧书店里的黑猫" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,8&height=200&section=header&text=住在旧书店里的黑猫&fontSize=46&fontAlignY=42&fontColor=ffffff&animation=fadeIn" alt="住在旧书店里的黑猫" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1800&color=7DD3FC&center=true&width=620&height=90&lines=%E2%96%B6%20%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E9%BB%91%E7%8C%AB%2C%E4%B9%9F%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BC%80%E5%8F%91%E8%80%85;%E2%96%B6%20%E5%92%96%E5%95%A1%E5%92%96%E5%95%A1%2C%E5%86%8D%E6%9D%A5%E4%B8%80%E6%9D%AF;%E2%96%B6%20%E6%9C%89%E4%BB%B6%E5%A5%BD%E4%BA%8B%E6%88%8A%E6%8A%8A%E6%8A%8A%E6%89%93%E5%8C%85" alt="打字机" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1800&color=7DD3FC&center=true&width=620&height=90&lines=▶ 我是一只黑猫，也是一个开发者;▶ 咖啡咖啡，再来一杯;▶ 有好事记得投喂我" alt="打字机" />
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Aston-x&label=%E6%9D%A5%E8%AE%BF%E9%87%8F&color=7C3AED&style=flat" alt="访问量" />
+<img src="https://komarev.com/ghpvc/?username=Aston-x&label=访问量&color=7C3AED&style=flat" alt="访问量" />
 
 </div>
 
@@ -96,6 +96,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,2,8&height=120&section=footer&desc=%E6%B2%A1%E4%BA%86%EF%BC%8C%E7%BE%8E%E5%9C%A8%E8%88%8F%E4%B9%A6%E5%BA%97%E9%87%8C%E7%9A%84%E5%90%8E%E4%B8%A4%E6%9D%AF%E5%92%96%E5%95%A1%E3%80%82&descAlignY=50&descSize=22" alt="页脚" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,2,8&height=120&section=footer&desc=没了，就在旧书店里的后两杯咖啡。&descAlignY=50&descSize=22" alt="页脚" />
 
 </div>
