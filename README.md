@@ -96,6 +96,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,2,8&height=120&section=footer&desc=再怎么翻都没有了喵。&descAlignY=50&descSize=22" alt="页脚" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,2,8&height=120&section=footer&desc=再怎么翻都没有了喵&descAlignY=50&descSize=22" alt="页脚" />
 
 </div>
