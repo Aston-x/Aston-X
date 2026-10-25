@@ -1,0 +1,6 @@
+# 本地预览产物，不推送
+preview.html
+
+# Python 缓存
+__pycache__/
+*.py[cod]
