@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1800&color=7DD3FC&center=true&width=620&height=90&lines=▶ 我是一只黑猫，也是一个开发者;▶ 咖啡咖啡，再来一杯;▶ 有好事记得投喂我" alt="打字机" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1800&color=7DD3FC&center=true&width=620&height=90&lines=▶ 喵喵喵;▶ 咖啡咖啡，再来一杯;▶ 有好事记得投喂我" alt="打字机" />
 
 </div>
 
