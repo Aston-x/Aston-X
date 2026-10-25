@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,8&height=200&section=header&text=住在旧书店里的黑猫&fontSize=46&fontAlignY=42&fontColor=ffffff&animation=fadeIn" alt="住在旧书店里的黑猫" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,8&height=200&section=header&text=季怡大王驾到&fontSize=46&fontAlignY=42&fontColor=ffffff&animation=fadeIn" alt="季怡大王驾到" />
 
 <br>
 
