@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1800&color=7DD3FC&center=true&width=620&height=90&lines=%E2%96%B6%20%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E9%BB%91%E7%8C%AB%EF%BC%8C%E4%B9%9F%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BC%80%E5%8F%91%E8%80%85;%E2%96%B6%20%E5%92%96%E5%95%A1%E5%92%96%E5%95%A1%EF%BC%8C%E5%86%8D%E6%9D%A5%E4%B8%80%E6%9D%AF;%E2%96%B6%20%E6%9C%89%E5%A5%BD%E4%BA%8B%E8%AE%B0%E5%BE%97%E6%8A%95%E5%96%82%E6%88%91" alt="▶ 我是一只黑猫，也是一个开发者 / ▶ 咖啡咖啡，再来一杯 / ▶ 有好事记得投喂我" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1800&color=7DD3FC&center=true&width=620&height=90&lines=%E2%96%B6%20%E5%96%B5%E5%96%B5%E5%96%B5;%E2%96%B6%20%E5%92%96%E5%95%A1%E5%92%96%E5%95%A1%EF%BC%8C%E5%86%8D%E6%9D%A5%E4%B8%80%E6%9D%AF;%E2%96%B6%20%E6%9C%89%E5%A5%BD%E4%BA%8B%E8%AE%B0%E5%BE%97%E6%8A%95%E5%96%82%E6%88%91" />
 
 </div>
 
