@@ -1,93 +1,57 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:DB2777,100:06B6D4&height=220&section=header&text=季怡大王驾到&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn"
-  alt="季怡大王驾到"
-  width="100%"
-/>
-
-<br>
+<img src="https://raw.githubusercontent.com/Aston-x/Aston-X/main/assets/header.svg" alt="Aston-x" width="100%"/>
 
 <a href="https://github.com/Aston-x">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1200&color=DB2777&center=true&vCenter=true&width=680&height=75&lines=▶+给我点点+Star+喵；▶+正在饲养许杏玖……；▶+本地+AI+%2F+QQ+Bot+%2F+Agent；▶+原神，启动！"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=DB2777&center=true&width=680&height=75&lines=Give+me+a+Star;Building+Xu+Xingjiu;Local+AI+and+QQ+Bot" alt="Typing SVG"/>
 </a>
 
 <p>
   <a href="https://github.com/Aston-x?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aston-x?label=Followers&logo=github&style=for-the-badge&labelColor=27272A&color=DB2777" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Aston-x?label=Followers&logo=github&style=for-the-badge&color=DB2777" alt="Followers"/>
   </a>
   <a href="https://github.com/Aston-x?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Aston-x?label=Stars&logo=github&style=for-the-badge&labelColor=27272A&color=7C3AED" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/Aston-x?label=Stars&logo=github&style=for-the-badge&color=7C3AED" alt="Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Aston-x&label=访问量&color=7C3AED&style=for-the-badge" alt="访问量"/>
+  <img src="https://komarev.com/ghpvc/?username=Aston-x&label=Visitors&color=7C3AED&style=for-the-badge" alt="Visitors"/>
 </p>
 
 </div>
 
+## aston-x@github: ~/processes
+
+| PROCESS | REPOSITORY | DESCRIPTION | STATE |
+|---|---|---|---|
+| `xuxingjiu` | [**许杏玖**](https://github.com/Aston-x/xuxingjiu) | 有作息、心情和记忆的黑猫娘 QQ 机器人 | `RUNNING` |
+| `maibot-patch` | [**许杏玖 · MaiBot 版**](https://github.com/Aston-x/xuxingjiu-maibot) | 脱敏配置、功能补丁与部署脚本 | `RUNNING` |
+| `model-switch` | [**Codex Model Switcher**](https://github.com/Aston-x/codex-model-switcher) | 为 Codex 接入其他 API Key | `READY` |
+| `memfade` | [**Memfade**](https://github.com/Aston-x/memfade) | 新项目，正在构建 | `BUILDING` |
+
 ---
 
 <div align="center">
 
-## 01 · 欸，云朵？
+## aston-x@github: ~/system --info
 
-<img
-  src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=Aston-x&theme=ubuntu&color=1"
-  alt="neofetch 卡片"
-  width="520"
-/>
+<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=Aston-x&theme=ubuntu&color=1" alt="neofetch" width="560"/>
+
+### Installed packages
+
+<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,git,github,githubactions,docker,linux,sqlite,ollama,fastapi,nginx&perline=6" alt="Skills"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## aston-x@github: ~/achievements
+
+<img src="https://github-profile-trophy-eight.vercel.app/?username=Aston-x&theme=radical&column=8&no-frame=true" alt="Trophies" width="96%"/>
 
 <br><br>
 
-<img
-  src="https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=Aston-x&theme=ubuntu"
-  alt="终端贡献图"
-  width="90%"
-/>
-
-</div>
-
----
-
-## 02 · 旧书店营业中
-
-<div align="center">
-
-<a href="https://github.com/Aston-x/xuxingjiu">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Aston-x&repo=xuxingjiu&theme=radical&hide_border=true&description_lines_count=2"
-    alt="许杏玖"
-    height="135"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/Aston-x/xuxingjiu-maibot">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Aston-x&repo=xuxingjiu-maibot&theme=radical&hide_border=true&description_lines_count=2"
-    alt="许杏玖 MaiBot 版"
-    height="135"
-  />
-</a>
-
-<br>
-
-<a href="https://github.com/Aston-x/codex-model-switcher">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Aston-x&repo=codex-model-switcher&theme=radical&hide_border=true&description_lines_count=2"
-    alt="Codex Model Switcher"
-    height="135"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/Aston-x/memfade">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Aston-x&repo=memfade&theme=radical&hide_border=true&description_lines_count=2"
-    alt="Memfade"
-    height="135"
-  />
-</a>
+<img src="https://streak-stats.demolab.com?user=Aston-x&theme=radical&hide_border=true" alt="Contribution Streak"/>
 
 </div>
 
@@ -95,86 +59,19 @@
 
 <div align="center">
 
-## 03 · 好想玩原神
+## aston-x@github: ~/entertainment
 
-<a href="https://github.com/Aston-x">
-  <img
-    src="https://github-readme-zodiac.vercel.app/api/card?username=Aston-x&width=380"
-    alt="星座"
-    width="380"
-  />
-</a>
+<img src="https://github-readme-zodiac.vercel.app/api/card?username=Aston-x&width=380" alt="Zodiac" width="380"/>
 &nbsp;&nbsp;
-<a href="https://github.com/Aston-x">
-  <img
-    src="https://github-readme-chinese-zodiac.vercel.app/api/card?username=Aston-x&width=380&glow=1"
-    alt="十二生肖"
-    width="380"
-  />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 04 · 哒哒哒哒哒
-
-<img
-  src="https://raw.githubusercontent.com/Aston-x/Aston-X/output/github-contribution-grid-snake.svg"
-  alt="贡献蛇"
-  width="95%"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-## 05 · 云原神！
-
-<img
-  src="https://github-profile-trophy-eight.vercel.app/?username=Aston-x&theme=radical&column=8&margin-w=6&margin-h=6&no-frame=true"
-  alt="奖杯墙"
-  width="95%"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-## 06 · 当当当当当
-
-<img
-  src="https://skillicons.dev/icons?i=python,typescript,nodejs,git,github,githubactions,docker,linux,sqlite,ollama,fastapi,nginx&perline=6"
-  alt="技能图标"
-/>
+<img src="https://github-readme-chinese-zodiac.vercel.app/api/card?username=Aston-x&width=380&glow=1" alt="Chinese Zodiac" width="380"/>
 
 <br><br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Aston-x&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
-  alt="GitHub 统计"
-  height="180"
-/>
-&nbsp;
-<img
-  src="https://streak-stats.demolab.com?user=Aston-x&theme=radical&hide_border=true"
-  alt="连续贡献"
-  height="180"
-/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="76%"/>
 
-<br>
+<br><br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aston-x&layout=compact&langs_count=8&theme=radical&hide_border=true"
-  alt="常用语言"
-  height="165"
-/>
+<img src="https://readme-jokes.vercel.app/api?type=svg&theme=radical" alt="Joke" width="72%"/>
 
 </div>
 
@@ -182,28 +79,16 @@
 
 <div align="center">
 
-## 07 · 看精彩纷纷
+## aston-x@github: ~/contribution.log
 
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-  alt="名言"
-  width="72%"
-/>
+<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=Aston-x&theme=ubuntu" alt="Terminal Contribution Graph" width="92%"/>
 
 <br><br>
 
-<img
-  src="https://readme-jokes.vercel.app/api?type=svg&theme=radical&hideBorder"
-  alt="笑话"
-  width="72%"
-/>
+<img src="https://raw.githubusercontent.com/Aston-x/Aston-X/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="96%"/>
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=soft&color=0:06B6D4,45:7C3AED,100:DB2777&height=120&section=footer&desc=再怎么翻都没有了喵&descAlignY=52&descSize=24"
-  alt="页脚"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:06B6D4,45:7C3AED,100:DB2777&height=110&section=footer&desc=EOF&descAlignY=55&descSize=24" alt="Footer" width="100%"/>
 
 </div>
