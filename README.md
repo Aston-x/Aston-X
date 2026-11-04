@@ -9,7 +9,8 @@
   <a href="https://github.com/Aston-x/xuxingjiu">
     <img src="https://img.shields.io/badge/%E6%8A%95%E5%96%82%E5%BA%97%E9%95%BF-%E7%82%B9%E6%88%91%E7%82%B9%E6%88%91-7C3AED?style=for-the-badge&logo=github" alt="投喂店长"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Aston-x&label=%E8%BF%9B%E5%BA%97%E4%BA%BA%E6%95%B0&color=7C3AED&style=for-the-badge" alt="进店人数"/>
+  <img src="https://komarev.com/ghpvc/?username=Aston-x&label=%20%20%20%20%E8%BF%9B%E5%BA%97%E4%BA%BA%E6%95%B0%20%20%20%20&color=7C3AED&style=for-the-badge" alt="进店人数"/>
+
 </p>
 
 </div>
