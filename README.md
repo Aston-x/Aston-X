@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:DB2777,100:06B6D4&height=220&section=header&text=%E5%AD%A3%E6%80%A1%E7%9A%84%E6%97%A7%E4%B9%A6%E5%BA%97&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="季怡的旧书店" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:DB2777,100:06B6D4&height=220&section=header&text=%E5%AD%A3%E6%80%A1%E7%9A%84%E6%97%A7%E4%B9%A6%E5%BA%97&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="季怡大王驾到" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=1100&color=DB2777&center=true&vCenter=true&width=720&height=75&lines=%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%EF%BC%8C%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E4%BF%AE%20Bug%20%E5%96%B5%3B%E6%9C%AC%E5%BA%97%E5%BA%97%E9%95%BF%EF%BC%9A%E8%AE%B8%E6%9D%8F%E7%8E%96%3B%E5%8E%9F%E7%A5%9E%EF%BC%8C%E5%90%AF%E5%8A%A8%EF%BC%81%3B%E7%BB%99%E6%88%91%E7%82%B9%20Star%EF%BC%8C%E4%B8%8D%E7%84%B6%E7%8C%AB%E7%8C%AB%E5%B0%B1%E4%B8%8B%E7%8F%AD%E4%BA%86" alt="Typing SVG"/>
 
